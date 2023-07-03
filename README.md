@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/@kevbell90
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/kevin-bell90
+[linkedin]: https://www.linkedin.com/in/kevin-bell90/
 
 <!--
 **kevbell90/kevbell90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
