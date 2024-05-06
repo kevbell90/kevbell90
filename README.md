@@ -1,7 +1,11 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/kevbell90">Programmer</a>, <a href="https://www.linkedin.com/in/kevin-bell90/">Cybersecurity Apprentice</a>, <a href="https://www.youtube.com/@kevbell90">YouTuber</a></h1>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/kevbell90">Programmer</a>, <a href="https://www.linkedin.com/in/kevbell90/">Cybersecurity Apprentice</a>, <a href="https://www.youtube.com/@kevbell90">YouTuber</a></h1>
 
+![construction-coming-soon-modern-template_1017-37035](https://github.com/kevbell90/kevbell90/assets/93627264/4116b6e2-79d4-4ef8-9fa6-9bda9eb0c5d6)
+
+
+<!--
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+.
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -17,7 +21,9 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ -->
 
+<!--
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -25,6 +31,7 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -36,7 +43,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/@kevbell90
 [instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/kevin-bell90/
+[linkedin]: https://www.linkedin.com/in/kevbell90/
 
 <!--
 **kevbell90/kevbell90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
